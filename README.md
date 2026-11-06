@@ -4,7 +4,7 @@
 1. Buat repo baru di GitHub, nama: resto-cobek
 2. Upload file index.html ini ke repo (drag & drop di web GitHub)
 3. Settings > Pages > Source: Deploy from a branch > Branch: main / root > Save
-4. Buka https://USERNAME.github.io/resto-cobek/
+4. Buka https://MisterKnown.github.io/resto-cobek/
 
 ## Kontak
 - Admin 1: 0895-3652-1894 - https://wa.me/62895365218944
